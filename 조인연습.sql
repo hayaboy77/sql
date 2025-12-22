@@ -234,3 +234,4 @@ WHERE e.name='ACTION'
 order by title;
 
 
+-- 6장 풀이 12시 반 부터
